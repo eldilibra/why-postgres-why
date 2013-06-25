@@ -1,0 +1,1 @@
+/Applications/Postgres.app/Contents/MacOS/bin/postgres "-D" "/Users/ldlibra/Library/Application Support/Postgres/var" "-p5432"
